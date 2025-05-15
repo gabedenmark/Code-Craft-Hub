@@ -1,5 +1,5 @@
-function a (){ }
+function one (){ }
 
-function b (){ }
+function two (){ }
 
-function c (){ }
+function tree (){ }
